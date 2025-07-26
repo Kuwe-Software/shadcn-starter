@@ -1,3 +1,8 @@
+# shadcn-starter
+Shad CN Starter Template
+
+# Introduction
+
 Welcome to your new TanStack app! 
 
 # Getting Started
